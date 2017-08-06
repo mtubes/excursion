@@ -1,0 +1,38 @@
+body{
+  background-color: black;
+  color: white;
+  font-family: verdana;
+  text-align: center;
+
+}
+.top h1{
+  font-weight: normal;
+  font-size: 50px;
+  text-align: center;
+}
+
+img {
+  align-items: center;
+}
+
+
+#download{
+  font-size: 16px;
+  color: aquamarine;
+  text-align: center;
+}
+
+.middle h1{
+  font-size: 42px;
+  font-weight: 300;
+  text-align: center;
+}
+
+p{
+  font-size: 21px;
+  color: gray;
+}
+
+#copyright {
+  text-align: right;
+}
